@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hola Soy Diego Martínez.
 
-<!--
-**DiegoMartzG/DiegoMartzG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Poseo el título de CFGM de SMR y un Grado Superior de DAW, dispuesto a seguir formandome y aprendiendo estando al día de nuevas tecnologías.
+Poseo conocimiento de:
+CSS
+HTML
+JavaScript
+Java
+MySQL
+Montaje de hardware 
+Multimedia como audacity o filmora y de edición como Gimp
